@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#F2EBFF">
+
+    <TextView
+        android:id="@+id/recyclerFoodName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Food Name"
+        android:textSize="32sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/purple_700">
+
+    </TextView>
+    
+    <ImageView
+        android:id="@+id/recyclerImageView"
+        android:layout_width="350dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center"
+        android:layout_margin="5dp">
+
+    </ImageView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Icindekiler"
+        android:textSize="24sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/purple_700">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/recyclerIngredients"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ingredients"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/purple_500">
+
+    </TextView>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tarif"
+        android:textSize="24sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/purple_700">
+
+    </TextView>
+
+    <TextView
+        android:id="@+id/recyclerRecipeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Test"
+        android:textSize="18sp"
+        android:layout_margin="5dp"
+        android:textColor="@color/purple_500">
+
+    </TextView>
+
+
+</LinearLayout>

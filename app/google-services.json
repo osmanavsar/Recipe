@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693476542224",
+    "project_id": "recipe-b2470",
+    "storage_bucket": "recipe-b2470.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693476542224:android:541f5863dc45409c2a4795",
+        "android_client_info": {
+          "package_name": "com.osmanavsar.recipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693476542224-4ur7eorrejnuifb4l290f20105gljrpv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8Z-zwxdJOg6Mt3FmAPPKt43tZFXRTTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693476542224-4ur7eorrejnuifb4l290f20105gljrpv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
